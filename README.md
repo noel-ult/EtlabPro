@@ -1,5 +1,10 @@
 # EtlabPro
 
+<!-- documentation-navigation -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Contributing](CONTRIBUTING.md)
+<!-- /documentation-navigation -->
+
+
 <img src="frontend/assets/images/splash-icon.png" alt="EtlabPro app icon" width="120" align="right" />
 
 EtlabPro is a full-stack student companion platform for Sahrdaya ETLAB users. It combines a production-oriented FastAPI backend, ETLAB scraping workflows, Supabase persistence, and a Flutter mobile app with rich analytics across attendance, internal marks, semester results, monthly calendar view, and timetable.
