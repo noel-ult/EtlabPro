@@ -1,7 +1,6 @@
 # EtlabPro source reference
 
-
-Source reviewed: [`e91627720cc8`](https://github.com/noel-ult/EtlabPro/commit/e91627720cc8f7d6136295f2af4f5e5adbd327b7).
+Source reviewed: [`f382f01ec5b3`](https://github.com/noel-ult/EtlabPro/commit/f382f01ec5b365f1b6be3aa3a8c238581ad3ad2b).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -76,7 +75,10 @@ Historical plans/reports describe their own revision; use current source when th
 - [Backend/docs/dbms/07_data_dictionary.md](../Backend/docs/dbms/07_data_dictionary.md)
 - [Backend/docs/dbms/README.md](../Backend/docs/dbms/README.md)
 - [Backend/requirements.txt](../Backend/requirements.txt)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [README.md](../README.md)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [frontend/README.md](../frontend/README.md)
 
 ## Source and configuration map
